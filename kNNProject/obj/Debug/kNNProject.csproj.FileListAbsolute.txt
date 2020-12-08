@@ -1,0 +1,7 @@
+C:\Users\Cengizhan ER\source\repos\kNNProject\kNNProject\bin\Debug\kNNProject.exe.config
+C:\Users\Cengizhan ER\source\repos\kNNProject\kNNProject\bin\Debug\kNNProject.exe
+C:\Users\Cengizhan ER\source\repos\kNNProject\kNNProject\bin\Debug\kNNProject.pdb
+C:\Users\Cengizhan ER\source\repos\kNNProject\kNNProject\obj\Debug\kNNProject.csprojAssemblyReference.cache
+C:\Users\Cengizhan ER\source\repos\kNNProject\kNNProject\obj\Debug\kNNProject.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan ER\source\repos\kNNProject\kNNProject\obj\Debug\kNNProject.exe
+C:\Users\Cengizhan ER\source\repos\kNNProject\kNNProject\obj\Debug\kNNProject.pdb
